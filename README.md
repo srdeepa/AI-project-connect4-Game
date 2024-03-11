@@ -1,4 +1,4 @@
-# connect4.py
+# connect4 game 
 
 ABSTRACT  
 • Connect Four is a two-player game where players take turns dropping colored discs into a vertically suspended grid. The goal is to be the first player to get four in a row  
